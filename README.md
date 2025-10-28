@@ -1,2 +1,2 @@
 # git_website
-making this repo for git tutorial
+this is the readme to show info on the site
